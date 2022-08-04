@@ -14,7 +14,6 @@ this directory contains tutorials, tips, tricks, hacks, and links on visualizati
 
 this directory contains python scripts implementing the more user-friendly interface
 
-- [ ] *c20 color maps*
 - [ ] *cumulative bar-plots*
 - [ ] *color-full five-number summary*
 
@@ -22,3 +21,5 @@ this directory contains python scripts implementing the more user-friendly inter
 
 - [ ] file creator with aliases for particular code templates/snippets
 - [ ] install script for those aliases
+- [ ] *c20 color map*
+- [ ] *ctu-color map*
