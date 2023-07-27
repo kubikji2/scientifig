@@ -5,6 +5,8 @@ IEEE_FIG_SIZE = (IEEE_DOUBLE_COL_WIDTH, IEEE_DOUBLE_COL_WIDTH) # modify for text
 FIG_SIZE = IEEE_FIG_SIZE
 FIG_SIZE_HALVED = (FIG_SIZE[0], 0.5*FIG_SIZE[0])
 
+THESIS_WIDTH = 6.15 # inches  # 6.14293 # inches
+
 # set recommended sans-serif fonts
 # '-> inspire by DV, MP and JK
 IEEE_FONTS = \
